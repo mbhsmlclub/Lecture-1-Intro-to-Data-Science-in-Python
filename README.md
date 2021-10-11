@@ -1,5 +1,5 @@
 # Lecture 1: Intro to Data Science in Python
-### [Areeb Gani](https://github.com/Qwerty71), [Michael Ilie](https://www.mci.sh), [Vijay Shanmugam](https://www.vijayrs.ml)
+### [Areeb Gani](https://github.com/Qwerty71), [Michael Ilie](https://www.mci.sh), [Vijay Shanmugam](https://www.vijayrs.com)
 
 This repo contains all of the materials associated with Week 1's lecture on Linear Regression.
 
